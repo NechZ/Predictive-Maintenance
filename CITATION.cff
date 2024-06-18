@@ -1,0 +1,10 @@
+title: Introduction to Predictive Maintenance
+version: 1.0.0
+authors:
+  - name: Nechirvan Zibar
+    affiliation: DHBW Mannheim
+    email: nechervanzibar@gmail.com
+  - name: Joshua Meyer
+    affiliation: DHBW Mannheim
+license: MIT
+repository: https://github.com/NechZ/Predictive-Maintenance
