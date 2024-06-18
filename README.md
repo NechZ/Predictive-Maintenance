@@ -9,9 +9,7 @@ This repository contains the code and data for a project on predictive maintenan
   - `PM_test.txt`: Test data
   - `PM_train.txt`: Training data
   - `PM_truth.txt`: Ground truth data
-- `Img/`: This directory contains images used in the notebook.
-- `LICENSE.txt`: The license for this project.
-- `CITATION.cff`: Citation information for this project.
+- `Img/`: This directory contains images produced in the notebook.
 
 ## Authors
 
@@ -19,7 +17,7 @@ This repository contains the code and data for a project on predictive maintenan
 - Joshua Meyer
 ## License
 
-This project is licensed under the Apache 2.0 License. See the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Repository Status
 
